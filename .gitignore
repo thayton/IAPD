@@ -4,5 +4,4 @@ staticfiles
 *~
 *.swp
 *#
-*.sqlite3
 migrations
