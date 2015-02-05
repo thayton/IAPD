@@ -1,5 +1,11 @@
 #!/usr/bin/env python
 
+"""
+Python script for searching firms on http://www.adviserinfo.sec.gov/IAPD/Content/Search/iapd_Search.aspx
+
+Assumes that the input Excel file is in the same directory as this script.
+"""
+
 import os
 import re
 import sys
